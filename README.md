@@ -2,7 +2,7 @@
   - CalDAV
   - CardDAV
   - Kanban
-  - Project Scheduling Management
+  - Project Schedule Management
 
 
 ![walk](https://raw.githubusercontent.com/taegyunko/public/main/walk.gif)
